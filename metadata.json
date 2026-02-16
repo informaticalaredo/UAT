@@ -1,0 +1,5 @@
+{
+  "name": "Shopify Account Simulator",
+  "description": "A high-fidelity onboarding simulator for Shopify that uses Gemini to provide personalized business strategies and brand naming suggestions.",
+  "requestFramePermissions": []
+}
